@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life
+# Conway's Game of Life
 A random Conway's Game of Life simulator based on the Forest Fire model on scipython.com
 
 The code for forestfire_model.py came from https://scipython.com/blog/the-forest-fire-model/
